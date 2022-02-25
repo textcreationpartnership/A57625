@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new fund raised on the foundation of Dr. Chamberlen's bank, where all objections against that bank are remov'd</title>
+            <author>Roots, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57625</idno>
+            <idno type="STC">Wing R1927</idno>
+            <idno type="STC">ESTC R222739</idno>
+            <idno type="EEBO-CITATION">99833878</idno>
+            <idno type="PROQUEST">99833878</idno>
+            <idno type="VID">38356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2215:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new fund raised on the foundation of Dr. Chamberlen's bank, where all objections against that bank are remov'd</title>
+                  <author>Roots, Thomas.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Roots.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38356:1" rendition="simple:additions"/>
+            <head>A NEW FUND Raiſed on the Foundation of Dr. Chamberlen's Bank, Where all Objections againſt that Bank are remov'd.</head>
+            <p>AMONG all the Projects to relieve the LANDED MEN from the paws of the USURER, Dr. <hi>CHAMBERLENS</hi> may juſtly challenge the pre<g ref="char:EOLhyphen"/>cedence, tho' he was unhappy in raiſing too great a Structure, which the Foundation could not bear; his FUND was ſufficient to diſcharge the Cre<g ref="char:EOLhyphen"/>did, in the compaſs of the time limited and the Security for the yearly Payments was abundantly ſufficient: But it muſt be confeſt that the Security, to anſwer that vaſt Sum which was to be rais'd, was defective, the Lands made over being of no more value than Twenty Years Purchaſe, and the Joint-Stock deſign'd for a Joint-Security being no Security to the Credit, for that Stock being Bills did it ſelf want Security. The truth is, he proceeded upon a Suppoſition not to be ſup<g ref="char:EOLhyphen"/>poſed; For how could he hope that this degenerate Age ſhould for his ſake, all at once grow good natured, and continue ſo too for a Hundred Years, to give his Bills credit? To raiſe five times the full Value of an Eſtate at once, and yet enjoy it, was a pretty Notion, tho' it gave the COUNTRY GENTLEMAN occaſion triumphantly to argue, that the Doctor made the part greater than the whole; ſince this new kind of Mortgage, if I may call it ſuch, would raiſe five times as much as a juſt Sale of the Fee Simple.</p>
+            <p>Now to clear all the rubs that lay in the Doctors way, and to raiſe a ſufficient, not an invidious Profit to the Subſcriber, nor yet to require a credit for a Hun<g ref="char:EOLhyphen"/>dred Years which is next to perpetuity, nor clog the thing with the trouble of a Joint-Stock the whole term; and further, to raiſe a large Encouragement to the Undertaker, which the Subſcribers ſhall inſenſibly pay, it is here humbly pro<g ref="char:EOLhyphen"/>poſed.
+<list>
+                  <item>I. That a Hundred Thouſand Pound <hi>per Annum</hi> in Lands to be raiſed by Subſcription, do conſtitute the FUND.</item>
+                  <item>II. That to ſecure the yearly Payment of this hundred thouſand Pounds of the current Coin of the Nation into ſuch hands as ſhall be directed by the Truſtees, a Hundred and Fifty Thouſand Pound <hi>per Annum</hi> be made over to the ſaid Truſtees, which Eſtate, yearly Payments being duly made, at the expiration of Thirty Years, will be clear and free from this incumbrance.</item>
+                  <item>III. That this Hundred Thouſand Pounds paid yearly, be yearly employed to buy up and cancel one Thirtieth part of the Bank-bills, which ſhall be diſtri<g ref="char:EOLhyphen"/>buted
+<pb n="2" facs="tcp:38356:2" rendition="simple:additions"/>ſoon after the Settlement proportionably to the Subſcribers; ſo that a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Thirty Years end none ſhall be left.</item>
+                  <item>IV. That the FUND being raiſed, ſuch a Number of Truſtees be choſen out of the Subſcribers as ſhall be judged convenient who may manage the whole affair, and to whom the Eſtates are to be made over: And ſince no Man can be a Truſtee to himſelf, that every Subſcriber chooſe three out of the whole Number of Truſtees to whom he may make over his Eſtate, ſo interchangeably the Truſtees may be a Truſt to one another. It is farther propoſed, that every one that Sub<g ref="char:EOLhyphen"/>ſcribes Fifty Pounds <hi>per Annum,</hi> ſhall have one Vote, and conſequently as many Votes as he ſubſcribes Fifty Pounds, and he that ſubſcribes a Hundred and Fifty ſhall be capable of being choſen a Truſtee.</item>
+                  <item>V. That he that makes over a Hundred and Fifty Pounds <hi>per Annum,</hi> for the Yearly Payment of a Hundred Pounds, and ſo proportionably for a greater or leſs Sum, ſhall ſoon after the ſettlement is made, receive the Sum of Two Thou<g ref="char:EOLhyphen"/>ſand Pounds in Bank-bills; and at Ten Years end, when one Million of the Cre<g ref="char:EOLhyphen"/>dit raiſed on this FUND is paid off, and the Bills for ſo much cancell'd, receive one other Thouſand Pounds in the like Bills, deducting at both receipts Five Pounds <hi>per Cent.</hi> to reward and gratifie the Undertaker.</item>
+                  <item>VI. That none Subſcribe leſs than Twenty Pounds <hi>per Annum,</hi> for the Payment of which Twenty Pounds, Thirty Pounds <hi>per Annum (ut ſupra)</hi> muſt be made over as a Security, yet ſo as leſs Eſtates may be united in Subſcription.</item>
+                  <item>VII. That every Subſcriber ſhall when he Subſcribes, pay one Shilling, and be at the charge of making good his Title, and making over his Eſtate by ſuch Coun<g ref="char:EOLhyphen"/>cel as the Truſtees ſhall appoint.</item>
+                  <item>VIII. That every Subſcriber ſhall make his yearly Payment in good and Lawful Money of <hi>England,</hi> within two Months after the Year is Expired; for which Pay<g ref="char:EOLhyphen"/>ment he ſhall have a Receipt <hi>Gratis,</hi> and the like Receipt ſhall be Regiſter'd in a Book prepared for that purpoſe; but every Subſcriber that brings in Bills to be Exchanged into Mony, in order to be cancell'd, ſhall pay five Shillings <hi>per Cent.</hi> which Bills ſhall be cancell'd before their Faces, then put carefully on a File, the Number of the Bills and their Value, with the Perſons Names, being ſtrictly Regi<g ref="char:EOLhyphen"/>ſtred in the ſaid Book in that order they were paid off and Cancell'd; which Regiſter every Subſcriber ſhall have free liberty to examine, in the ſight of ſuch an Officer as the Truſtees ſhall appoint.</item>
+               </list>
+            </p>
+            <p>Now if theſe Bills ſhould have no currency at all, and that none will paſs, be the Security never ſo great, but ſuch as will be immediately exchanged into Money on demand, which (in my opinion) is to ſuppoſe mankind in a State of War; no more Sociable, and ſcarce Rational Creatures; the Undertaker does promiſe and engage, whatever is ſaid in the Propoſals to the contrary, either to cancel all the Bills at once, or, if there may be hopes of a future currency, to accept yearly payments in Bank-bills, Ten Shillings <hi>per Cent.</hi> being allow'd him either for part or the whole, and alſo to reſtore what was at each diſtribution of Bills given him as a reward.</p>
+            <p>The deſign of this FUND is honeſt and plain, and the benefit as diffuſive as the Subſcription reaches, and Bills of an unqueſtionable ſecurity may be uſeful in Trade: Yet to make it plain to meaner Capacities, here the Subſcriber, ſome little charge to the Undertaker and the Officer deducted, has at two ſeveral payments Thirty Years purchaſe for his Eſtate; and yet parts not with it at all, and at Thirty
+<pb n="3" facs="tcp:38356:2"/>Years end enjoys it entirely free; and ſuppoſe the worſt that can be ſuppoſed, that Bills are worth nothing, yet the loſs cannot poſſibly be above Ten Pounds to him that Subſcribes a Hundred Pounds <hi>per Annum;</hi> ſo that the loſs is incon<g ref="char:EOLhyphen"/>ſiderable if put in the Ballance with the gain; and certainly there is the faireſt proſpect in the World of Succeſs, as will appear in the next Paragraph.</p>
+            <p>If it be inquired, why the whole Sum is not paid at once, the only reaſon of making this double payment, and the requiring a Hundred and Fifty Pounds to be made over for the payment of a Hundred Pounds yearly, was purely to eſtabliſh ſuch a ſecurity for the credit raiſed, as ſhould be beyond all exception; for here the ſecurity is Three Millions, (ſo much a Hundred and Fifty Thouſand Pounds <hi>per Annum,</hi> is worth at Twenty Years Purchaſe) and the credit raiſed at firſt, but Two Millions, which yearly decreaſes, ſo that at Ten Years end, the Credit is but one Million, then another Million is raiſed, which makes the Credit once more two Millions, which decreaſes by a Hundred Thouſand Pounds every Year, while the Security continues from firſt to laſt ſtill Three Millions. Be<g ref="char:EOLhyphen"/>ſides all this whoever paſſes off Bills in payment, becomes a Security to him that receives 'em; ſo that no Man can diſpute the taking theſe Bills, for any pretend<g ref="char:EOLhyphen"/>ed deficiency in the Security; and when there is an undeniable ſafety in 'em, Why ſhould we fear any Man will be ſo ill natur'd to refuſe 'em, eſpecially ſince if he be a great Trader, they will be an eaſe, and may be an advantage to him?</p>
+            <p>I cannot foreſee what Objections thoſe Gentlemen of the National Land-bank can make againſt this, only that here ſome particular Perſons will be ſupply'd, who muſt otherwiſe have fled to them for relief againſt the USURER; but this is an Objection that thoſe Generous Undertakers will ſcorn to make; for it has ſo much ill nature in the face, that it muſt come mask'd and cannot bear the Sun. Do they aim at the Publick good of Landed Men, with a little regard to their own advantage? So do I their deſign is general, and (I hope) of the ſame dura<g ref="char:EOLhyphen"/>tion with the Government; mine is confin'd to a certain Number of Perſons, and ſtinted to a certain Number of Years: I heartily wiſh to ſee theirs flowriſh, and hope they will not look with an ill eye on mine. If Dr. <hi>CHAMBERLEN</hi> ſhall think himſelf agriev'd, I aſſure him, if I find Succeſs, he ſhall not want a due reward for his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Laſtly,</hi> It is hoped, and with all humility pray'd, that if the PARLIAMENT ſhall in their great Wiſdom think fit to Eſtabliſh a National Land-bank. They would not determin any thing Excluſively of this FUND; ſince if a private Agree<g ref="char:EOLhyphen"/>ment without Their GREAT SANCTION (which modeſty forbids me to ask) may anſwer the ends propoſed, they may hereafter upon a FUND of the like Nature, raiſe Five Millions for the KING, or more if they pleaſe, in a way ſo eaſie to the Subject, that there will be contending who ſhall pay it, they be<g ref="char:EOLhyphen"/>ing conſiderably enrich'd by doing ſo; as the Undertaker will make appear if requir'd.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Subſcriptions will be taken by Mr. <hi>Thomas Roots</hi> Jun. at Mr. <hi>Frewen's</hi> Chamber in <hi>Cliffords-Inn London,</hi> and by the Undertaker at the Free-School in <hi>Tonbridge Kent.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Roots.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
